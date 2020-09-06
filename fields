@@ -1,0 +1,137 @@
+{
+  "widgetName": {
+    "type": "hidden",
+    "value": "Advanced follower counter"
+  },
+    "totalBarColor": {
+    "type": "colorpicker",
+    "label": "Bar Primary Color",
+    "value": "#6a5acd"
+  },
+  "progressBarColor": {
+    "type": "colorpicker",
+    "label": "Progress Bar Color",
+    "value": "#ff6347"
+  },
+  "barWidth": {
+       "type": "number",
+    "label": "Bar width",
+    "value": 100,
+    "min": 1,
+    "max": 1080,
+    "step": 1
+  },
+   "barHeight": {
+       "type": "number",
+    "label": "Bar Height",
+    "value": 50,
+    "min": 1,
+    "max": 500,
+    "step": 1
+  },
+  "goal1": {
+    "type": "text",
+    "label": "Level 1 Goal",
+    "value": "Default text"
+  },
+   "goal1start":{
+    "type": "number",
+    "label": "Start point",
+    "value": 0,
+    "min": 0,
+    "max": 10000000,
+    "step": 1
+  },
+  "goal1end":{
+    "type": "number",
+    "label": "End point",
+    "value": 1,
+    "min": 0,
+    "max": 10000000,
+    "step": 1
+  }, 
+    "goal2": {
+    "type": "text",
+    "label": "Level 2 Goal",
+    "value": "Default text"
+  },
+   "goal2start":{
+    "type": "number",
+    "label": "Start point",
+    "value": 2,
+    "min": 0,
+    "max": 10000000,
+    "step": 1
+  },
+  "goal2end":{
+    "type": "number",
+    "label": "End point",
+    "value": 3,
+    "min": 0,
+    "max": 10000000,
+    "step": 1
+  },
+    "goal3": {
+    "type": "text",
+    "label": "Level 3 Goal",
+    "value": "Default text"
+  },
+    "goal3start":{
+    "type": "number",
+    "label": "Start point",
+    "value": 4,
+    "min": 0,
+    "max": 10000000,
+    "step": 1
+  },
+  "goal3end":{
+    "type": "number",
+    "label": "End point",
+    "value": 5,
+    "min": 0,
+    "max": 10000000,
+    "step": 1
+  },
+    "goal4": {
+    "type": "text",
+    "label": "Level 4 Goal",
+    "value": "Default text"
+  },
+  "goal4start":{
+    "type": "number",
+    "label": "Start point",
+    "value": 6,
+    "min": 0,
+    "max": 100000000,
+    "step": 1
+  },
+  "goal4end":{
+    "type": "number",
+    "label": "End point",
+    "value": 7,
+    "min": 0,
+    "max": 100000000,
+    "step": 1
+  },
+    "goal5": {
+    "type": "text",
+    "label": "Level 5 Goal",
+    "value": "Default text"
+  },
+  "goal5start":{
+    "type": "number",
+    "label": "Start point",
+    "value": 8,
+    "min": 0,
+    "max": 10000000,
+    "step": 1
+  },
+  "goal5end":{
+    "type": "number",
+    "label": "End point",
+    "value": 9,
+    "min": 0,
+    "max": 10000000,
+    "step": 1
+  }
+}
